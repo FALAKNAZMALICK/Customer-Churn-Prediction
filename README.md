@@ -1,6 +1,5 @@
 # Customer-Churn-Prediction
 Enhanced customer churn prediction using the Churn Modelling Dataset with Random Forest, feature scaling, and one‑hot encoding. Includes EDA, visualization, and feature importance analysis to identify key drivers of churn.
-# Enhanced Customer Churn Prediction
 
 ## Objective
 Identify customers who are likely to leave the bank (churn) using demographic and financial data. This classification task helps banks understand customer behavior and reduce attrition.
